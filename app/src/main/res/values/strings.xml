@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MADProject</string>
+    <string name="pay1">BUS.lk</string>
+    <string name="pay2">Make Your Payments For Seat Booking</string>
+    <string name="pay3">Bus Number:</string>
+    <string name="pay4">Seat Number:</string>
+    <string name="pay5">PAy</string>
+    <string name="name1">Payment Details</string>
+    <string name="name2">Card Holder Name</string>
+    <string name="name3">Card Number</string>
+    <string name="name4">CVV Code</string>
+    <string name="name6">Expiration Date</string>
+    <string name="name7">conform payments</string>
+    <string name="name8">show</string>
+    <string name="name10">update</string>
+    <string name="name11">delete</string>
+</resources>
